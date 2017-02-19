@@ -1,7 +1,7 @@
 define(function() {
     return {
-        title: "What's New in Knockout 3.0",
-        speaker: "Ryan Niemeyer",
-        twitter: "@RPNiemeyer"
+        title: "Deliver a Knockout with your APEX Applications",
+        speaker: "Jorge Rimblas",
+        twitter: "@rimblas"
     };
 });

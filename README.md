@@ -1,5 +1,12 @@
-SamplePresentation
+# About
+This are KnockoutJS demos from the presentation "Deliver a Knockout with your APEX Applications" by Jorge Rimblas.
+
+*This is Work in progress...*
+
+About the Original
 ==================
+
+Thi presentation slides use the excellent infrastructure created by [Ryan Niemeyer](https://github.com/rniemeyer).
 
 Reference sample for a presentation tool that can show live coded Knockout samples.  Live here: <http://rniemeyer.github.com/SamplePresentation/>
 
