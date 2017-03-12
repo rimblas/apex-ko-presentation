@@ -5,15 +5,14 @@
 
         this.sections = ko.observableArray([
             new Section("intro"),
-            new Section("independent", "sample"),
-            new Section("ordered", "sample"),
-            new Section("checkedValue", "sample"),
-            new Section("pre-binding", "sample"),
-            new Section("pre-node", "sample"),
-            new Section("dynamic", "sample"),
-            new Section("arrayChange", "sample"),
-            new Section("computeds", "sample"),
-            new Section("other"),
+            new Section("data-binding", "sample"),
+            new Section("ui-refresh", "sample"),
+            // new Section("ordered", "sample"),
+            // new Section("pre-binding", "sample"),
+            // new Section("pre-node", "sample"),
+            // new Section("dynamic", "sample"),
+            // new Section("computeds", "sample"),
+            // new Section("other"),
             new Section("end")
         ]);
 

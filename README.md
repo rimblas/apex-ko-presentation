@@ -1,7 +1,7 @@
 # About
 This are KnockoutJS demos from the presentation "Deliver a Knockout with your APEX Applications" by Jorge Rimblas.
 
-*This is Work in progress...*
+**This is Work in progress...**
 
 About the Original
 ==================

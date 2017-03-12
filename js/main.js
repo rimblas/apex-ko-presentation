@@ -1,6 +1,6 @@
 require.config({
     paths: {
-        "knockout": "ext/knockout-3.0.0rc",
+        "knockout": "ext/knockout.3.4.1-min",
         "knockout.punches": "ext/knockout.punches.min",
         "jquery": "ext/jquery-1.7.2.min",
         "jqueryui": "ext/jquery-ui.min",
