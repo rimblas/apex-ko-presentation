@@ -1,7 +1,7 @@
 # About
-This are KnockoutJS demos from the presentation "Deliver a Knockout with your APEX Applications" by Jorge Rimblas.
+This are KnockoutJS demos from the presentation "[Deliver a Knockout with your APEX Applications](http://slides.com/rimblas/deliver-a-knockout-with-your-apex-applications)" by Jorge Rimblas.
 
-**This is Work in progress...**
+The [Oracle Application Express (APEX)](https://apex.oracle.com) demo app can be [found here](https://github.com/rimblas/apex-ko-presentation/blob/master/apex/f276.sql).
 
 About the Original
 ==================
