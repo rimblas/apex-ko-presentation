@@ -5,12 +5,12 @@ var viewModel = {
     }
 };
 
-viewModel.count = ko.computed(function() {
-    return this.items().length;
-}, viewModel);
-
 viewModel.canAddItems = ko.computed(function() {
     return this.items().length < 5;
+}, viewModel);
+
+viewModel.count = ko.computed(function() {
+    return this.items().length;
 }, viewModel);
 
 

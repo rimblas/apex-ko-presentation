@@ -3,6 +3,15 @@ This are KnockoutJS demos from the presentation "[Deliver a Knockout with your A
 
 The [Oracle Application Express (APEX)](https://apex.oracle.com) demo app can be [found here](https://github.com/rimblas/apex-ko-presentation/blob/master/apex/f276.sql).
 
+## Running
+The APEX application can be found on the apex directory [f276.sql](apex/f276.sql)
+
+To run the knockout slides you need to serve the root directory with your prefered method. If you have python installed, locally you could use:
+```
+python -m SimpleHTTPServer 8080
+```
+Then visit http://localhost:8080
+
 About the Original
 ==================
 
